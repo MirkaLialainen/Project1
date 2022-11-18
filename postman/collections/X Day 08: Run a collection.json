@@ -56,7 +56,7 @@
 									{
 										"key": "user",
 										"value": "1234",
-										"type": "text"
+										"disabled": true
 									}
 								],
 								"url": {
